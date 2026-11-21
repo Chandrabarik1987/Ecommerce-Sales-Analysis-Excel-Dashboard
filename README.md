@@ -5,7 +5,7 @@ Interactive Ecommerce Sales Analysis Dashboard built in Microsoft Excel using Pi
 An interactive Excel dashboard built using PivotTables, Slicers, Dynamic Formulas (`GETPIVOTDATA`), and advanced charts to analyze ecommerce sales performance.
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](dashboard_preview.png)
+[Dashboard Preview](Final%20ex%20pro%202.png)
 
 ## 🚀 Key Insights & Features
 * **KPI Cards with YoY Growth:** Tracks Total Sales, Profit, Quantity, Orders, and Profit Margin with dynamic year-over-year percentage indicators.
